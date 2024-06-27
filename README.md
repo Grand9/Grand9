@@ -32,8 +32,3 @@ Java Developer
   <a href="https://github.com/Grand9/java-project-71" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Grand9&repo=java-project-71&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=312e81&hide_border=true&locale=en" /></a>
 </div>
 
-### Repository Descriptions
-
-- **[java-project-61](https://github.com/Grand9/java-project-61)**: Mind Games - A collection of Java-based mind games.
-  
-- **[java-project-71](https://github.com/Grand9/java-project-71)**: Diff Calculator - A Java program for computing differences between two texts.
