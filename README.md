@@ -48,3 +48,9 @@ Java Developer
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Grand9&repo=java-project-78&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=312e81&hide_border=true&locale=en" />
   </a>
 </div>
+<br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/Grand9/java-project-99" align="center">
+    <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Grand9&repo=java-project-99&title_color=facc15&text_color=ffffff&icon_color=84cc16&bg_color=312e81&hide_border=true&locale=en" />
+  </a>
+</div>
